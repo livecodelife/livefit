@@ -1,4 +1,34 @@
-baseURL = 'https://livefit.com/'
+baseURL = 'https://livefitt.net/'
 languageCode = 'en-us'
-title = 'LiveFit'
+title = 'LiveFitt'
 theme = 'BlogRa'
+
+[params]
+    description     = "The Ultimate Tech Blogging Theme"
+    contactEmail    = "your-email@domain.com"
+    footer          = ""
+    googleSearch    = ""
+    googleAnalytics = ""      # Google Analytics v4
+    adsense         = ""
+    math            = false   # best to enable this in the front matter of a page
+    mermaid         = false   # best to enable this in the front matter of a page
+
+    # Social Media Params
+    facebook   = ""
+    twitter    = ""
+    youtube    = ""
+    instagram  = ""
+    github     = ""
+    pinterest  = ""
+    linkedin   = ""
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        name = "Posts"
+	url = "/posts/"
+        weight = 2
