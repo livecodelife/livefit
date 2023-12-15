@@ -1,0 +1,6 @@
+[submodule "BlogRa"]
+	path = BlogRa
+	url = https://github.com/rafed/BlogRa.git
+[submodule "themes/BlogRa"]
+	path = themes/BlogRa
+	url = https://github.com/rafed/BlogRa.git

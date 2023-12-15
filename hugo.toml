@@ -1,0 +1,4 @@
+baseURL = 'https://livefit.com/'
+languageCode = 'en-us'
+title = 'LiveFit'
+theme = 'BlogRa'
