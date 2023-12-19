@@ -9,7 +9,7 @@ theme = 'BlogRa'
     footer          = ""
     googleSearch    = ""
     googleAnalytics = ""      # Google Analytics v4
-    adsense         = ""
+    adsense         = "ca-pub-4531697702826116"
     math            = false   # best to enable this in the front matter of a page
     mermaid         = false   # best to enable this in the front matter of a page
 
