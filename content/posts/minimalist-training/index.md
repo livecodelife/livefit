@@ -4,8 +4,6 @@
 	"image": "minimalist.jpeg"
 }
 
-# The Art of Minimalist Training: A Deep Dive into Maximum Results
-
 ## Navigating Success Through Simplicity
 
 In the ever-evolving landscape of fitness, a paradigm shift is underway—the resurgence of minimalist training. This approach champions simplicity, urging enthusiasts to focus on essential elements that promise maximum results. It's not a journey of shortcuts but a strategic odyssey centered around what genuinely matters in the pursuit of fitness goals.
