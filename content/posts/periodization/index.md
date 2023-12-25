@@ -1,5 +1,5 @@
 {
-	"title": "Periodization",
+	"title": "Demystifying Fitness Periodization: Unveiling the Power of Micro, Macro, and Mesocycles",
 	"date": "2023-12-24",
 	"image": "periodization.avif"
 }

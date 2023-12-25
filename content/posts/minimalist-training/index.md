@@ -1,5 +1,5 @@
 {
-	"title": "Minimalist Training",
+	"title": "The Art of Minimalist Training: A Deep Dive into Maximum Results",
 	"date": "2023-12-14",
 	"image": "minimalist.jpeg"
 }
